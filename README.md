@@ -5,5 +5,5 @@ My name is Ntokozo Tshabalala. I am an Information Technology student with an in
 This repository contains my personal identity system created for CMPG214 Assignment 1. The design explores identity, visual meaning, and constraint-based thinking.
 In this repsitory you will find my:
 Personal logomark
-Infographic explaining the identity system
-Optional design process sketches
+Infographic design
+
